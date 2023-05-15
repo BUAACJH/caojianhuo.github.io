@@ -18,11 +18,7 @@
          ·
      </div>
  </center>
-<<<<<<< HEAD
 
-=======
- 
->>>>>>> f38208dd54b81ac0bed79cc6a5fa13402b7aa002
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
  - 男，1994 年出生
