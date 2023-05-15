@@ -19,8 +19,7 @@
      </div>
  </center>
 
-
- ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
+## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
  - 男，1994 年出生
  - 求职意向：Java 研发工程师
